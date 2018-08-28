@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Svetlana Novak](https://up.htmlacademy.ru/javascript/15/user/412253).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Лыков](https://htmlacademy.ru/profile/id529621).
 
 ---
 
